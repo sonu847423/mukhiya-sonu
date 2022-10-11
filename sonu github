@@ -1,0 +1,7 @@
+#include [studio.h]
+int main()
+{
+printf ("HELLO");
+print ("hello World");
+reture 0;
+}
